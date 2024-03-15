@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "SuperOcean", cursive;
+    src: local('SuperOcean') url(SuperOcean.ttf) format('ttf');
+}
+
+h1 {
+    font-family: SuperOcean;
+    font-weight: 600 ;
+    color: rgba(250, 249, 249, 0.74);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
